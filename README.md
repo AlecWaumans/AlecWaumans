@@ -296,8 +296,4 @@ Open to opportunities in **embedded systems, robotics, AI and software developme
 
 <br /><br />
 
-<sub>
-  Space image: <a href="https://science.nasa.gov/asset/webb/sagittarius-c-nircam-image/">Sagittarius C — NASA, ESA, CSA, STScI, Samuel Crowe (UVA)</a>
-</sub>
-
 </div>
