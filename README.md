@@ -6,8 +6,6 @@
 
 <div align="center">
 
-<img src="https://avatars.githubusercontent.com/u/89478160?v=4" width="120" alt="Kyra's aquarium-inspired GitHub avatar" />
-
 # Alec Waumans
 
 **Software developer · Applied computer science · Autonomous systems**
