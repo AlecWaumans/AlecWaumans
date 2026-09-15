@@ -1,18 +1,20 @@
 <!-- AlecWaumans / README.md -->
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1F2A,55:245766,100:80CBC4&height=100&section=header" width="100%" alt="" />
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:0B1F2A,55:245766,100:438D91&height=190&text=THE%20WORLD%20OF%20KYRA&fontSize=40&fontColor=E6F4F1&fontAlignY=42&desc=Embedded%20Systems%20%20%20Robotics%20%20%20Artificial%20Intelligence&descSize=16&descAlignY=66" width="100%" alt="The World of Kyra — Embedded Systems, Robotics and Artificial Intelligence" />
+  <a href="https://science.nasa.gov/asset/webb/sagittarius-c-nircam-image/">
+    <img src="https://assets.science.nasa.gov/dynamicimage/assets/science/missions/webb/science/2023/11/STScI-01HF7P3B6PW5DS5N9M9XD1EY27.png?crop=faces%2Cfocalpoint&fit=clip&w=1400" width="100%" alt="A turquoise nebula surrounded by stars — Sagittarius C, captured by the James Webb Space Telescope" />
+  </a>
 </p>
 
 <div align="center">
 
-<img src="https://avatars.githubusercontent.com/u/89478160?v=4" width="120" alt="Kyra's aquarium-inspired GitHub avatar" />
-
 # Alec Waumans
 
-**Software developer · Applied computer science · Autonomous systems**
+**Embedded Systems · Robotics · Artificial Intelligence**
 
-From understanding the world through sensors to building software that acts on it.
+Building software that connects perception, intelligence and the physical world.
 
 <p>
   <a href="https://theworldofkyra.com/">
@@ -25,241 +27,101 @@ From understanding the world through sensors to building software that acts on i
     <img src="https://img.shields.io/badge/Download_CV-245766?style=for-the-badge&logo=readthedocs&logoColor=BDD9D5" alt="Download my CV" />
   </a>
   <a href="https://theworldofkyra.com/contact">
-    <img src="https://img.shields.io/badge/Let's_connect-245766?style=for-the-badge&logo=minutemailer&logoColor=BDD9D5" alt="Contact me" />
+    <img src="https://img.shields.io/badge/Contact-245766?style=for-the-badge&logo=minutemailer&logoColor=BDD9D5" alt="Contact me" />
   </a>
 </p>
 
-<sub>
-  <a href="#overview">OVERVIEW</a> &nbsp; / &nbsp;
-  <a href="#projects">PROJECTS</a> &nbsp; / &nbsp;
-  <a href="#toolbox">TOOLBOX</a> &nbsp; / &nbsp;
-  <a href="#research">RESEARCH</a> &nbsp; / &nbsp;
-  <a href="#beyond-the-code">BEYOND THE CODE</a>
-</sub>
+<sub>Belgium · Open to relocation in Europe · Graduate / Junior opportunities</sub>
+
+<br /><br />
+
+<a href="#toolbox">TOOLBOX</a> &nbsp; ✦ &nbsp;
+<a href="#research">RESEARCH</a> &nbsp; ✦ &nbsp;
+<a href="#about">ABOUT</a> &nbsp; ✦ &nbsp;
+<a href="#selected-projects">PROJECTS</a>
 
 </div>
 
 <br />
 
-<table>
-  <tr>
-    <td width="33%" align="center">
-      <br />
-      <strong>01 &nbsp; EMBEDDED</strong>
-      <p>Sensors, actuators and software<br />working together in the real world.</p>
-      <code>Hardware → Software</code>
-      <br /><br />
-    </td>
-    <td width="33%" align="center">
-      <br />
-      <strong>02 &nbsp; ROBOTICS</strong>
-      <p>Perception, control and interaction<br />for autonomous systems.</p>
-      <code>Perception → Action</code>
-      <br /><br />
-    </td>
-    <td width="33%" align="center">
-      <br />
-      <strong>03 &nbsp; AI</strong>
-      <p>Computer vision and learning<br />applied to concrete challenges.</p>
-      <code>Data → Decisions</code>
-      <br /><br />
-    </td>
-  </tr>
-</table>
-
-## Overview
-
-<table>
-  <tr>
-    <td width="60%" valign="top">
-      <h3>Hello, I'm Alec — welcome to my world.</h3>
-      <p>
-        I hold a bachelor's degree in Applied Computer Science from
-        <strong>HE2B – ESI</strong>, with a specialization in industrial development.
-      </p>
-      <p>
-        I build embedded and autonomous systems, from perception to deployment,
-        alongside desktop and web applications. My interests bring together
-        <strong>robotics, computer vision, AI and aviation</strong>.
-      </p>
-      <p>
-        I completed a research internship at
-        <strong>CIRA — Italian Aerospace Research Center</strong>,
-        working on autonomous systems and aviation.
-      </p>
-      <a href="https://theworldofkyra.com/about">More about my background ↗</a>
-    </td>
-    <td width="40%" valign="top">
-      <h3>At a glance</h3>
-      <p><strong>Based in</strong><br />Belgium · Open to relocation in Europe</p>
-      <p><strong>Looking for</strong><br />Graduate / Junior opportunities in embedded systems, robotics or AI</p>
-      <p><strong>Languages</strong><br />French · Native<br />English · B2<br />Spanish · A1, learning</p>
-    </td>
-  </tr>
-</table>
-
-### On my workbench
-
-| Focus | What I'm exploring |
-| :--- | :--- |
-| **UAV systems** | Autonomous perception, control and navigation |
-| **Industrial robotics** | A robotic arm for computer vision applications |
-| **The World of Kyra** | Portfolio design, backend development and deployment |
-
-<br />
-
-## Projects
-
-<sub>A selection of academic and personal projects, from software architecture to physical prototypes.</sub>
-
-<br /><br />
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <img src="https://img.shields.io/badge/01-AUTONOMOUS_SYSTEMS-245766?style=flat-square&labelColor=0B1F2A" alt="01 — Autonomous systems" />
-      <h3><a href="https://github.com/AlecWaumans/Autonomous-Electrical-Car">Autonomous Electrical Car</a></h3>
-      <p>
-        Raspberry Pi autonomous car combining traffic-sign recognition,
-        deep learning, embedded control and obstacle detection.
-      </p>
-      <p><code>Python</code> <code>TensorFlow</code> <code>OpenCV</code> <code>Raspberry Pi</code></p>
-      <a href="https://github.com/AlecWaumans/Autonomous-Electrical-Car">Explore the project ↗</a>
-      <br /><br />
-    </td>
-    <td width="50%" valign="top">
-      <img src="https://img.shields.io/badge/02-HUMAN_ROBOT_INTERACTION-245766?style=flat-square&labelColor=0B1F2A" alt="02 — Human–robot interaction" />
-      <h3><a href="https://github.com/AlecWaumans/RoboticTracking_Human-Machine">Robotic Hand Tracking</a></h3>
-      <p>
-        A 3D-printed robotic hand that reproduces human gestures using
-        camera-based tracking, servo control and serial communication.
-      </p>
-      <p><code>Python</code> <code>MediaPipe</code> <code>OpenCV</code> <code>Arduino</code></p>
-      <a href="https://github.com/AlecWaumans/RoboticTracking_Human-Machine">Explore the project ↗</a>
-      <br /><br />
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <img src="https://img.shields.io/badge/03-EMBEDDED_%26_IOT-245766?style=flat-square&labelColor=0B1F2A" alt="03 — Embedded and IoT" />
-      <h3><a href="https://github.com/AlecWaumans/Greenhouse-IoT-Automated">Automated IoT Greenhouse</a></h3>
-      <p>
-        ESP32 greenhouse controller monitoring temperature and soil moisture,
-        with irrigation, ventilation and lighting managed through a local web interface.
-      </p>
-      <p><code>C++</code> <code>ESP32</code> <code>Sensors</code> <code>Wi-Fi</code></p>
-      <a href="https://github.com/AlecWaumans/Greenhouse-IoT-Automated">Explore the project ↗</a>
-      <br /><br />
-    </td>
-    <td width="50%" valign="top">
-      <img src="https://img.shields.io/badge/04-REINFORCEMENT_LEARNING-245766?style=flat-square&labelColor=0B1F2A" alt="04 — Reinforcement learning" />
-      <h3><a href="https://github.com/AlecWaumans/ML-FrozenLake">FrozenLake Learning Lab</a></h3>
-      <p>
-        Comparing tabular Q-Learning and Deep Q-Learning through agent training,
-        evaluation and performance visualization.
-      </p>
-      <p><code>Python</code> <code>PyTorch</code> <code>Gymnasium</code> <code>DQN</code></p>
-      <a href="https://github.com/AlecWaumans/ML-FrozenLake">Explore the project ↗</a>
-      <br /><br />
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <img src="https://img.shields.io/badge/05-SOFTWARE_%26_SECURITY-245766?style=flat-square&labelColor=0B1F2A" alt="05 — Software and security" />
-      <h3><a href="https://github.com/AlecWaumans/CyberSecurity-Project-NasServor">Secure NAS</a></h3>
-      <p>
-        Educational file-storage application featuring two-factor authentication,
-        isolated user storage, folder sharing and activity logging.
-      </p>
-      <p><code>Python</code> <code>Flask</code> <code>SQLite</code> <code>Argon2</code></p>
-      <a href="https://github.com/AlecWaumans/CyberSecurity-Project-NasServor">Explore the project ↗</a>
-      <br /><br />
-    </td>
-    <td width="50%" valign="top">
-      <img src="https://img.shields.io/badge/06-CLIENT_SERVER_ARCHITECTURE-245766?style=flat-square&labelColor=0B1F2A" alt="06 — Client–server architecture" />
-      <h3><a href="https://github.com/AlecWaumans/Othello-Java-Frontend-Backend-Client-Server">Othello Online</a></h3>
-      <p>
-        Client–server Othello game with a JavaFX interface, network synchronization,
-        automated opponents and persistent game data.
-      </p>
-      <p><code>Java 17</code> <code>JavaFX</code> <code>SQLite</code> <code>Maven</code></p>
-      <a href="https://github.com/AlecWaumans/Othello-Java-Frontend-Backend-Client-Server">Explore the project ↗</a>
-      <br /><br />
-    </td>
-  </tr>
-</table>
-
-<details>
-<summary><strong>More experiments · Games & software design</strong></summary>
-
-<br />
-
-| Project | What I explored |
-| :--- | :--- |
-| [Chess ASCII MVC](https://github.com/AlecWaumans/CHESS-ASCII-MVC) | Java, object-oriented design, chess rules and MVC architecture |
-| [C++ Tetris MVC](https://github.com/AlecWaumans/Cpp-Tetris-MVC) | Game logic, rendering, input handling and separation of concerns |
-| [Leprechaun Adventure](https://github.com/AlecWaumans/Leprechaun-Adventure-Java2D) | Java2D, tile maps, collisions and RPG mechanics |
-
-</details>
-
-<br />
-
 ## Toolbox
 
-### Languages
-
-<p>
-  <img src="https://img.shields.io/badge/Python-132F3A?style=for-the-badge&logo=python&logoColor=80CBC4" alt="Python" />
-  <img src="https://img.shields.io/badge/C-132F3A?style=for-the-badge&logo=c&logoColor=80CBC4" alt="C" />
-  <img src="https://img.shields.io/badge/C++-132F3A?style=for-the-badge&logo=cplusplus&logoColor=80CBC4" alt="C++" />
-  <img src="https://img.shields.io/badge/Java-132F3A?style=for-the-badge" alt="Java" />
-  <img src="https://img.shields.io/badge/C%23-132F3A?style=for-the-badge" alt="C#" />
-  <img src="https://img.shields.io/badge/SQL-132F3A?style=for-the-badge&logo=sqlite&logoColor=80CBC4" alt="SQL" />
-  <img src="https://img.shields.io/badge/HTML-132F3A?style=for-the-badge&logo=html5&logoColor=80CBC4" alt="HTML" />
-  <img src="https://img.shields.io/badge/CSS-132F3A?style=for-the-badge&logo=css&logoColor=80CBC4" alt="CSS" />
-</p>
-
-### AI & computer vision
-
-<p>
-  <img src="https://img.shields.io/badge/OpenCV-132F3A?style=for-the-badge&logo=opencv&logoColor=80CBC4" alt="OpenCV" />
-  <img src="https://img.shields.io/badge/TensorFlow-132F3A?style=for-the-badge&logo=tensorflow&logoColor=80CBC4" alt="TensorFlow" />
-  <img src="https://img.shields.io/badge/PyTorch-132F3A?style=for-the-badge&logo=pytorch&logoColor=80CBC4" alt="PyTorch" />
-  <img src="https://img.shields.io/badge/MediaPipe-132F3A?style=for-the-badge&logo=mediapipe&logoColor=80CBC4" alt="MediaPipe" />
-</p>
-
-### Hardware & systems
-
-<p>
-  <img src="https://img.shields.io/badge/Raspberry_Pi-132F3A?style=for-the-badge&logo=raspberrypi&logoColor=C4DDA5" alt="Raspberry Pi" />
-  <img src="https://img.shields.io/badge/NVIDIA_Jetson-132F3A?style=for-the-badge&logo=nvidia&logoColor=C4DDA5" alt="NVIDIA Jetson" />
-  <img src="https://img.shields.io/badge/Arduino-132F3A?style=for-the-badge&logo=arduino&logoColor=C4DDA5" alt="Arduino" />
-  <img src="https://img.shields.io/badge/ESP32-132F3A?style=for-the-badge&logo=espressif&logoColor=C4DDA5" alt="ESP32" />
-  <img src="https://img.shields.io/badge/Linux-132F3A?style=for-the-badge&logo=linux&logoColor=C4DDA5" alt="Linux" />
-</p>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>01 &nbsp; Languages</h3>
+      <p>
+        <img src="https://img.shields.io/badge/Python-132F3A?style=for-the-badge&logo=python&logoColor=80CBC4" alt="Python" />
+        <img src="https://img.shields.io/badge/C-132F3A?style=for-the-badge&logo=c&logoColor=80CBC4" alt="C" />
+        <img src="https://img.shields.io/badge/C++-132F3A?style=for-the-badge&logo=cplusplus&logoColor=80CBC4" alt="C++" />
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/Java-132F3A?style=for-the-badge" alt="Java" />
+        <img src="https://img.shields.io/badge/C%23-132F3A?style=for-the-badge" alt="C#" />
+        <img src="https://img.shields.io/badge/SQL-132F3A?style=for-the-badge&logo=sqlite&logoColor=80CBC4" alt="SQL" />
+      </p>
+      <sub>Also working with HTML, CSS, Bash and LaTeX.</sub>
+      <br /><br />
+    </td>
+    <td width="50%" valign="top">
+      <h3>02 &nbsp; AI & Computer Vision</h3>
+      <p>
+        <img src="https://img.shields.io/badge/PyTorch-132F3A?style=for-the-badge&logo=pytorch&logoColor=80CBC4" alt="PyTorch" />
+        <img src="https://img.shields.io/badge/OpenCV-132F3A?style=for-the-badge&logo=opencv&logoColor=80CBC4" alt="OpenCV" />
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/TensorFlow-132F3A?style=for-the-badge&logo=tensorflow&logoColor=80CBC4" alt="TensorFlow" />
+        <img src="https://img.shields.io/badge/ONNX-132F3A?style=for-the-badge&logo=onnx&logoColor=80CBC4" alt="ONNX" />
+      </p>
+      <sub>YOLOX · TensorRT · MediaPipe · Reinforcement learning</sub>
+      <br /><br />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>03 &nbsp; Robotics & Embedded</h3>
+      <p>
+        <img src="https://img.shields.io/badge/ROS_2-132F3A?style=for-the-badge&logo=ros&logoColor=C4DDA5" alt="ROS 2" />
+        <img src="https://img.shields.io/badge/Jetson-132F3A?style=for-the-badge&logo=nvidia&logoColor=C4DDA5" alt="NVIDIA Jetson" />
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/Raspberry_Pi-132F3A?style=for-the-badge&logo=raspberrypi&logoColor=C4DDA5" alt="Raspberry Pi" />
+        <img src="https://img.shields.io/badge/ESP32-132F3A?style=for-the-badge&logo=espressif&logoColor=C4DDA5" alt="ESP32" />
+      </p>
+      <sub>Arduino · MAVLink · Sensors & actuators · Linux</sub>
+      <br /><br />
+    </td>
+    <td width="50%" valign="top">
+      <h3>04 &nbsp; Backend & Engineering</h3>
+      <p>
+        <img src="https://img.shields.io/badge/FastAPI-132F3A?style=for-the-badge&logo=fastapi&logoColor=C4DDA5" alt="FastAPI" />
+        <img src="https://img.shields.io/badge/Flask-132F3A?style=for-the-badge&logo=flask&logoColor=C4DDA5" alt="Flask" />
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/Docker-132F3A?style=for-the-badge&logo=docker&logoColor=C4DDA5" alt="Docker" />
+        <img src="https://img.shields.io/badge/Ollama-132F3A?style=for-the-badge&logo=ollama&logoColor=C4DDA5" alt="Ollama" />
+      </p>
+      <sub>Git · SQLite · JavaFX · Qt6 · Unity · SysML</sub>
+      <br /><br />
+    </td>
+  </tr>
+</table>
 
 <details>
-<summary><strong>Open the full engineering toolbox</strong></summary>
+<summary><strong>More engineering tools</strong></summary>
 
 <br />
 
-| Area | Technologies & tools |
+| Area | Tools |
 | :--- | :--- |
-| **Applications & interfaces** | Flask · JavaFX · Qt6 · Unity · SQLite |
-| **Development** | Git · Bash · PyCharm · IntelliJ · CLion · Xcode · VS Code |
-| **Architecture & modeling** | SysML · Capella · StarUML |
+| **Architecture & modeling** | Capella · StarUML · SysML |
 | **Industrial automation** | Siemens TIA · PLC / HMI programming · Stäubli robotics |
-| **Engineering & prototyping** | SolidWorks · LabVIEW |
+| **Prototyping** | SolidWorks · LabVIEW |
+| **Development environments** | PyCharm · IntelliJ · CLion · Xcode · VS Code |
 | **Networking** | Cisco Packet Tracer |
-| **Documentation & teamwork** | LaTeX · Scrum · Technical communication |
+| **Documentation & collaboration** | LaTeX · Scrum · Technical communication |
 
 </details>
-
-### How I approach a project
-
-**Requirements** → **Architecture** → **Development** → **Validation** → **Deployment**
-
-<sub>Understand the problem, connect the parts, test the system and document the result.</sub>
 
 <br />
 
@@ -269,16 +131,18 @@ From understanding the world through sensors to building software that acts on i
   <tr>
     <td>
       <br />
-      <img src="https://img.shields.io/badge/RESEARCH-AVIATION_%26_AI-245766?style=flat-square&labelColor=0B1F2A" alt="Research — Aviation and AI" />
+      <img src="https://img.shields.io/badge/PUBLICATION-AVIATION_%26_AI-245766?style=flat-square&labelColor=0B1F2A" alt="Publication — Aviation and AI" />
       <h3>A Hybrid Architecture for Scene Understanding and Event Prediction in Aviation</h3>
       <p><strong>RoboticCC 2025 · Naples, Italy</strong></p>
       <p>
-        A hybrid AI architecture combining multimodal perception, semantic graph reasoning
-        and model-based reinforcement learning to understand scenes and anticipate critical events.
+        Combining multimodal perception, semantic graph reasoning and model-based
+        reinforcement learning to understand complex scenes and anticipate critical events.
         Evaluated through an aircraft-landing simulation in Unity.
       </p>
       <p>
-        <a href="https://ieeexplore.ieee.org/document/11391829"><strong>Read on IEEE Xplore ↗</strong></a>
+        <a href="https://ieeexplore.ieee.org/document/11391829">
+          <img src="https://img.shields.io/badge/Read_the_paper-132F3A?style=for-the-badge&logo=ieee&logoColor=80CBC4" alt="Read the paper on IEEE Xplore" />
+        </a>
       </p>
       <sub>DOI: 10.1109/RoboticCC68732.2025.00023</sub>
       <br /><br />
@@ -288,37 +152,138 @@ From understanding the world through sensors to building software that acts on i
 
 <br />
 
-## Learning
+## About
+
+I hold a bachelor's degree in **Applied Computer Science from HE2B – ESI**, specializing in industrial development.
+
+My work connects **embedded software, robotics, computer vision and AI**, with a particular interest in aviation and autonomous systems. I also build desktop and web applications, from their architecture to their interfaces.
+
+During my research internship at **CIRA — Italian Aerospace Research Center**, I worked on autonomous systems and aviation.
+
+**French** · Native &nbsp; / &nbsp; **English** · B2 &nbsp; / &nbsp; **Spanish** · A1
+
+<br />
+
+## Selected Projects
+
+<sub>From aerial perception and agent governance to robotics and connected systems.</sub>
+
+<br /><br />
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>Foundations</h3>
-      <p>✓ Applied Computer Science — HE2B / ESI</p>
-      <p>✓ Mastering SysML — Udemy</p>
-      <p>✓ Unity Essentials — Unity Learn</p>
-      <p>✓ Introduction to IoT — Cisco Networking Academy</p>
+      <img src="https://img.shields.io/badge/01-UAV_%26_EDGE_AI-245766?style=flat-square&labelColor=0B1F2A" alt="01 — UAV and Edge AI" />
+      <h3><a href="https://github.com/AlecWaumans/moose-uav-mission-system">MOOSE</a></h3>
+      <p><strong>UAV Perception & Mission System</strong></p>
+      <p>
+        Experimental UAV project connecting aerial person detection to a Jetson-based
+        mission computer. Combines model training and evaluation, ROS 2 integration,
+        telemetry, estimated target locations and live video.
+      </p>
+      <p><sub>Integrated pipeline validated on the bench.</sub></p>
+      <p>
+        <code>Python</code> <code>ROS 2</code> <code>Jetson</code>
+        <code>YOLOX</code> <code>TensorRT</code>
+      </p>
+      <p>
+        <a href="https://github.com/AlecWaumans/moose-uav-mission-system"><strong>Mission system ↗</strong></a>
+        <br />
+        <a href="https://github.com/AlecWaumans/moose-uav-human-detection">Detection & ML pipeline ↗</a>
+      </p>
     </td>
     <td width="50%" valign="top">
-      <h3>Continuing to explore</h3>
-      <p>◦ Autonomous Vehicle Engineering — Università Federico II</p>
-      <p>◦ Principles of Flight Mechanics — ISAE-SUPAERO</p>
-      <p>◦ VR Development — Unity Learn</p>
+      <img src="https://img.shields.io/badge/02-AI_AGENT_GOVERNANCE-245766?style=flat-square&labelColor=0B1F2A" alt="02 — AI agent governance" />
+      <h3><a href="https://github.com/AlecWaumans/Secure-Agent-Governance-Engine">SAGE</a></h3>
+      <p><strong>Secure Agent Governance Engine</strong></p>
+      <p>
+        Local multi-agent application combining document retrieval, analysis supported
+        by evidence and independent review. Includes governance policies,
+        prompt-injection checks, bounded correction loops and auditable execution traces.
+      </p>
+      <p><sub>FastAPI backend with a local web interface.</sub></p>
+      <p>
+        <code>Python</code> <code>FastAPI</code> <code>Ollama</code>
+        <code>SQLite</code> <code>Docker</code>
+      </p>
+      <p>
+        <a href="https://github.com/AlecWaumans/Secure-Agent-Governance-Engine"><strong>Explore the project ↗</strong></a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <img src="https://img.shields.io/badge/03-HUMAN_ROBOT_INTERACTION-245766?style=flat-square&labelColor=0B1F2A" alt="03 — Human–robot interaction" />
+      <h3><a href="https://github.com/AlecWaumans/RoboticTracking_Human-Machine">Robotic Hand Tracking</a></h3>
+      <p>
+        A 3D-printed robotic hand that reproduces human gestures using
+        camera-based tracking, servo control and UART communication.
+      </p>
+      <p>
+        <code>Python</code> <code>OpenCV</code>
+        <code>MediaPipe</code> <code>Arduino</code>
+      </p>
+      <p>
+        <a href="https://github.com/AlecWaumans/RoboticTracking_Human-Machine">Explore the project ↗</a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <img src="https://img.shields.io/badge/04-AUTONOMOUS_SYSTEMS-245766?style=flat-square&labelColor=0B1F2A" alt="04 — Autonomous systems" />
+      <h3><a href="https://github.com/AlecWaumans/Autonomous-Electrical-Car">Autonomous Electrical Car</a></h3>
+      <p>
+        Raspberry Pi autonomous car combining traffic-sign recognition,
+        deep learning, embedded control and obstacle detection.
+      </p>
+      <p>
+        <code>Python</code> <code>TensorFlow</code>
+        <code>OpenCV</code> <code>Raspberry Pi</code>
+      </p>
+      <p>
+        <a href="https://github.com/AlecWaumans/Autonomous-Electrical-Car">Explore the project ↗</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <img src="https://img.shields.io/badge/05-EMBEDDED_%26_IOT-245766?style=flat-square&labelColor=0B1F2A" alt="05 — Embedded and IoT" />
+      <h3><a href="https://github.com/AlecWaumans/Greenhouse-IoT-Automated">Automated IoT Greenhouse</a></h3>
+      <p>
+        ESP32 controller monitoring temperature and soil moisture,
+        with irrigation, ventilation and lighting managed through a local web interface.
+      </p>
+      <p>
+        <code>C++</code> <code>ESP32</code>
+        <code>Sensors</code> <code>Wi-Fi</code>
+      </p>
+      <p>
+        <a href="https://github.com/AlecWaumans/Greenhouse-IoT-Automated">Explore the project ↗</a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <img src="https://img.shields.io/badge/06-SOFTWARE_%26_SECURITY-245766?style=flat-square&labelColor=0B1F2A" alt="06 — Software and security" />
+      <h3><a href="https://github.com/AlecWaumans/CyberSecurity-Project-NasServor">Secure NAS</a></h3>
+      <p>
+        Educational file-storage application with two-factor authentication,
+        isolated user storage, folder sharing and activity logging.
+      </p>
+      <p>
+        <code>Python</code> <code>Flask</code>
+        <code>SQLite</code> <code>Argon2</code>
+      </p>
+      <p>
+        <a href="https://github.com/AlecWaumans/CyberSecurity-Project-NasServor">Explore the project ↗</a>
+      </p>
     </td>
   </tr>
 </table>
 
+<p align="center">
+  <a href="https://github.com/AlecWaumans?tab=repositories">
+    <img src="https://img.shields.io/badge/Explore_all_repositories-132F3A?style=for-the-badge&logo=github&logoColor=80CBC4" alt="Explore all repositories" />
+  </a>
+</p>
+
 <br />
-
-## Beyond the code
-
-Photography is another part of my world.
-
-<a href="https://www.instagram.com/kyra.photographie/">
-  <img src="https://img.shields.io/badge/kyra.photographie-132F3A?style=for-the-badge&logo=instagram&logoColor=80CBC4" alt="My photography on Instagram" />
-</a>
-
-<br /><br />
 
 ---
 
@@ -326,17 +291,20 @@ Photography is another part of my world.
 
 ### Let's build something that works in the real world.
 
-Interested in embedded systems, robotics, AI or a software project?  
-I'm open to job opportunities and collaborations.
+Open to opportunities in **embedded systems, robotics, AI and software development**.
 
 **[Get in touch](https://theworldofkyra.com/contact)** &nbsp; · &nbsp;
-**[Visit my portfolio](https://theworldofkyra.com/)** &nbsp; · &nbsp;
-**[Connect on LinkedIn](https://www.linkedin.com/in/alec-waumans/)**
+**[Portfolio](https://theworldofkyra.com/)** &nbsp; · &nbsp;
+**[LinkedIn](https://www.linkedin.com/in/alec-waumans/)**
 
 <br />
 
-<sub>Alec Waumans &nbsp; / &nbsp; The World of Kyra &nbsp; / &nbsp; Belgium</sub>
+✦ &nbsp; **Alec Waumans** &nbsp; · &nbsp; Belgium &nbsp; ✦
+
+<br /><br />
+
+<sub>
+  Space image: <a href="https://science.nasa.gov/asset/webb/sagittarius-c-nircam-image/">Sagittarius C — NASA, ESA, CSA, STScI, Samuel Crowe (UVA)</a>
+</sub>
 
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1F2A,55:245766,100:80CBC4&height=100&section=footer" width="100%" alt="" />
