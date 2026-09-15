@@ -1,13 +1,6 @@
 <!-- AlecWaumans / README.md -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1F2A,55:245766,100:80CBC4&height=100&section=header" width="100%" alt="" />
-
-<p align="center">
-  <a href="https://science.nasa.gov/asset/webb/sagittarius-c-nircam-image/">
-    <img src="https://assets.science.nasa.gov/dynamicimage/assets/science/missions/webb/science/2023/11/STScI-01HF7P3B6PW5DS5N9M9XD1EY27.png?crop=faces%2Cfocalpoint&fit=clip&w=1400" width="100%" alt="A turquoise nebula surrounded by stars — Sagittarius C, captured by the James Webb Space Telescope" />
-  </a>
-</p>
-
 <div align="center">
 
 # Alec Waumans
